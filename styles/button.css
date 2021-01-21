@@ -1,0 +1,61 @@
+.btn {
+  background-color: white;
+  border: none;
+  padding: 20px;
+  font-weight: bold;
+  cursor: pointer;
+
+}
+
+.btn-lg {
+  padding: 20px;
+  margin-right: 30px;
+  width: 200px;
+
+}
+.more-btn {
+
+  margin-left: 250px;
+  margin-top: 40px;
+
+}
+
+/* .email-btn {
+  border: solid 0.2px white;
+  background:none;
+  color: #7e7d7d;
+  font-size: 13px;
+  
+  
+}  */
+
+.btn-inverse {
+  background:none;
+  border: solid 1px black;
+  margin-left: 410px;
+
+}
+
+.btn-md {
+  width: 170px;
+}
+
+.btn-golf {
+  width: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
